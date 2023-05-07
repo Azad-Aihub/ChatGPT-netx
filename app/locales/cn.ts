@@ -92,7 +92,7 @@ const cn = {
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
-      GoToUpdate: "前往更新",
+      GoToUpdate: "加入站长星球获取更多福利",
     },
     SendKey: "发送键",
     Theme: "主题",
@@ -133,7 +133,7 @@ const cn = {
     },
     Token: {
       Title: "API Key",
-      SubTitle: "使用自己的 Key 可绕过密码访问限制",
+      SubTitle: "使用自己的 Key 可绕过 密码访问 限制。可在左下角购物车购买。",
       Placeholder: "OpenAI API Key",
     },
 
@@ -148,8 +148,8 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "已开启加密访问",
-      Placeholder: "请输入访问密码",
+      SubTitle: "加入星球【不止GPT】获取访问码",
+      Placeholder: "请输入访问密码使用",
     },
     Model: "模型 (model)",
     Temperature: {
