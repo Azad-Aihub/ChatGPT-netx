@@ -148,7 +148,7 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "加入星球【不止GPT】获取访问码",
+      SubTitle: "Q群 340825795 获取 访问码",
       Placeholder: "请输入访问密码使用",
     },
     Model: "模型 (model)",
