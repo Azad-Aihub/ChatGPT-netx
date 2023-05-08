@@ -51,7 +51,7 @@ if ! command -v node >/dev/null || ! command -v git >/dev/null || ! command -v y
 fi
 
 # Clone the repository and install dependencies
-git clone https://github.com/Azad-sl001/ChatGPT-Web-9
+git clone https://github.com/Azad-Aihub/ChatGPT-netx
 cd ChatGPT-Next-Web
 yarn install
 
